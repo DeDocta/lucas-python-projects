@@ -1,5 +1,5 @@
 # lucas-python-projects
-alle Python Projekte von Luca auf einem Ort versammelt
+alle Python Projekte von TheDoctor auf einem Ort versammelt
 
 ============================================================================================
 
