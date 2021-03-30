@@ -1,0 +1,7 @@
+Man braucht folgende dinge zum nutzen dieses pogramms:
+https://www.python.org/downloads/
+
+
+Wie man es startet:
+Einfach die "TheDoctor´s Texteditor.pyw" datei mit Python öffnen, wichtig dabei ist das die
+datei in diesem Ornder geöffnet wird, anders funktioniert es nicht!
