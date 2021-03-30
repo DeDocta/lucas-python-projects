@@ -13,4 +13,6 @@ alle Python Projekte von Luca auf einem Ort versammelt
 ============================================================================================
 
 Discord -> ǝxǝ˙ɹoʇɔoᗡǝɥ⊥#6156
+   
+   
 Email -> owneroftardis@gmail.com
