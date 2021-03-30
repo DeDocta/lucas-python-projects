@@ -1,7 +1,7 @@
 # lucas-python-projects
 alle Python Projekte von Luca auf einem Ort versammelt
 
-=================================================================================================================
+============================================================================================
 
                                                    BESCHREIBUNG
                     Alle Programme in diesen Ordnern sind von TheDoctor Programmiert und Desingt
@@ -10,7 +10,7 @@ alle Python Projekte von Luca auf einem Ort versammelt
                                               
                                Viel Spaß beim Testen und Nutzen dieser Programme!
 
-=================================================================================================================
+============================================================================================
 
 Discord -> ǝxǝ˙ɹoʇɔoᗡǝɥ⊥#6156
 Email -> owneroftardis@gmail.com
