@@ -1,0 +1,46 @@
+###############################################################################
+#  ______    ____                ____       _____       ____       ____       #
+# /\__  _\  /\  _`\             /\  _`\    /\  __`\    /\  _`\    /\  _`\     #
+# \/_/\ \/  \ \ \/\ \           \ \ \/\_\  \ \ \/\ \   \ \ \/\ \  \ \ \L\_\   #
+#    \ \ \   \ \ \ \ \  _______  \ \ \/_/_  \ \ \ \ \   \ \ \ \ \  \ \  _\L   #
+#     \ \ \   \ \ \_\ \/\______\  \ \ \L\ \  \ \ \_\ \   \ \ \_\ \  \ \ \L\ \ #
+#      \ \_\   \ \____/\/______/   \ \____/   \ \_____\   \ \____/   \ \____/ #
+#       \/_/    \/___/              \/___/     \/_____/    \/___/     \/___/  #
+###############################################################################
+
+ _______  _______  _______  _______  _______  _        ______   _______ 
+(  ____ \(  ___  )(       )(       )(  ___  )( (    /|(  __  \ (  ____ \
+| (    \/| (   ) || () () || () () || (   ) ||  \  ( || (  \  )| (    \/
+| |      | |   | || || || || || || || (___) ||   \ | || |   ) || (_____ 
+| |      | |   | || |(_)| || |(_)| ||  ___  || (\ \) || |   | |(_____  )
+| |      | |   | || |   | || |   | || (   ) || | \   || |   ) |      ) |
+| (____/\| (___) || )   ( || )   ( || )   ( || )  \  || (__/  )/\____) |
+(_______/(_______)|/     \||/     \||/     \||/    )_)(______/ \_______)
+
+
+-say <text>
+ writes <text> into the Console
+
+-sleep <time in seconds>
+ stopps the entire script for <time in seconds> seconds
+
+-write <textfile.txt> <text>
+ writes <text> to <textfile.txt>
+
+-read <textfile>
+ reads <textfile> and writes it into console
+
+-help
+ writes the list of commands
+
+-copy <file/path> <second/file/path>
+ copy the file <file/path> to <second/file/path> path position
+
+-move <file/path> <new/file/path>
+ move the file <file/path> to <new/file/path> path
+
+-smyle
+ writes a face into the console
+
+-rand <minimum number> <maximum number>
+ generates a random number between <minimum number> and <maximum number>
