@@ -12,7 +12,7 @@ alle Python Projekte von TheDoctor auf einem Ort versammelt
 
 ============================================================================================
 
-Discord -> ǝxǝ˙ɹoʇɔoᗡǝɥ⊥#6156
+Discord -> TheDoctor#6156
    
    
 Email -> owneroftardis@gmail.com
